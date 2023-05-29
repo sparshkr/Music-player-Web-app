@@ -1,0 +1,23 @@
+*{
+  background-color: antiquewhite;
+}
+.container {
+
+    text-align: center;
+  }
+  
+  .controls button {
+    margin: 5px;
+  }
+  
+  #playlist li {
+    cursor: pointer;
+  }
+  
+  #lyrics {
+    margin-top: 20px;
+    font-style: italic;
+  }
+#playlist{
+  list-style-type: none;
+}  
